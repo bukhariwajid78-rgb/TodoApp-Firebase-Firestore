@@ -2,7 +2,7 @@
 
 A clean Android To-Do List app built with **Kotlin** and **XML**. Tasks are stored in the cloud with **Firebase Firestore**, and the screen updates in **real time** whenever the data changes.
 
-> 📺 **Video tutorial:** coming soon on my YouTube channel
+> 📺 **Video tutorial:**    [Watch the full video on YouTube](https://youtu.be/nw4Cz2YpSYQ)
 
 ## 📱 Screenshots
 
